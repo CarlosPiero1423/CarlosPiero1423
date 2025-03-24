@@ -8,7 +8,7 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <p align="center">
-<a href="[https://www.youtube.com/watch?v=vdB-8eLEW8g](https://youtu.be/jeYCyCaK_5k)"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+<a href="https://www.youtube.com/embed/4ZcLb9v7Y4U"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
   
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
